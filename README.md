@@ -262,7 +262,7 @@
                 <img src="images/gawan_8.png" alt="مشترك مفتوح واي">
             </div>
             <div class="product-details">
-                <h3>مشترك مفتوح ل</h3>
+                <h3>مشترك مفتوح واي</h3>
                 <table>
                     <thead><tr>
                         <th>المقاس</th>
