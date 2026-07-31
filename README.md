@@ -1242,47 +1242,7 @@
             <div class="product-details">
                 <h3>جلبة</h3>
                 <table>
-                    <thead><tr>
-                        <th>المقاس</th>
-                        <th>السعر</th>
-                    </tr></thead>
-                    <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>20</td>
-                        </tr>
-                        <tr>
-                            <td>1.5</td>
-                            <td>38</td>
-                        </tr>
-                        <tr>
-                            <td>2</td>
-                            <td>66</td>
-                        </tr>
-                        <tr>
-                            <td>3</td>
-                            <td>94</td>
-                        </tr>
-                        <tr>
-                            <td>4</td>
-                            <td>212</td>
-                        </tr>
-                        <tr>
-                            <td>6</td>
-                            <td>450</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-        <div class="product-card">
-            <div class="product-image">
-                <img src="images/white_5.png" alt="مشترك عادة">
-            </div>
-            <div class="product-details">
-                <h3>مشترك عادة</h3>
-                <table>
-                    <thead><tr>
+                     <thead><tr>
                         <th>المقاس</th>
                         <th>السعر</th>
                     </tr></thead>
@@ -1310,6 +1270,46 @@
                         <tr>
                             <td>6</td>
                             <td>198</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="product-card">
+            <div class="product-image">
+                <img src="images/white_5.png" alt="مشترك عادة">
+            </div>
+            <div class="product-details">
+                <h3>مشترك عادة</h3>
+                <table>
+                  <thead><tr>
+                        <th>المقاس</th>
+                        <th>السعر</th>
+                    </tr></thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>20</td>
+                        </tr>
+                        <tr>
+                            <td>1.5</td>
+                            <td>38</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>66</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>94</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>212</td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>450</td>
                         </tr>
                     </tbody>
                 </table>
