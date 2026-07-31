@@ -1237,7 +1237,7 @@
         </div>
         <div class="product-card">
             <div class="product-image">
-                <img src="images/white_5.png" alt="جلبة">
+                <img src="images/white_4.png" alt="جلبة">
             </div>
             <div class="product-details">
                 <h3>جلبة</h3>
@@ -1277,7 +1277,7 @@
         </div>
         <div class="product-card">
             <div class="product-image">
-                <img src="images/white_4.png" alt="مشترك عادة">
+                <img src="images/white_5.png" alt="مشترك عادة">
             </div>
             <div class="product-details">
                 <h3>مشترك عادة</h3>
