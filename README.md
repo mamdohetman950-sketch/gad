@@ -259,7 +259,7 @@
         </div>
         <div class="product-card">
             <div class="product-image">
-                <img src="images/gawan_8.png" alt="مشترك مفتوح ل">
+                <img src="images/gawan_8.png" alt="مشترك مفتوح واي">
             </div>
             <div class="product-details">
                 <h3>مشترك مفتوح ل</h3>
