@@ -538,36 +538,30 @@
             <div class="product-details">
                 <h3>مواسير اخضر ضغط 20 بار</h3>
                 <table>
-                    <thead><tr>
+                     <thead><tr>
                         <th>المقاس</th>
-                        <th>اخضر</th>
-                        <th>معزول</th>
+                        <th>السعر</th>
                     </tr></thead>
                     <tbody>
                         <tr>
-                            <td>20</td>
-                            <td>10.30</td>
-                            <td>15.00</td>
+                            <td>م . ماسورة ض 2020</td>
+                            <td>28.30</td>
                         </tr>
                         <tr>
-                            <td>25</td>
-                            <td>17.00</td>
-                            <td>19.00</td>
+                            <td>م ماسورة 20y/25</td>
+                            <td>55.00</td>
                         </tr>
                         <tr>
-                            <td>32</td>
-                            <td>32.00</td>
-                            <td>40.00</td>
+                            <td>م مواسير مم 32 ض 20</td>
+                            <td>86.00</td>
                         </tr>
                         <tr>
-                            <td>50</td>
-                            <td>98.00</td>
-                            <td>103.00</td>
+                            <td>م مواسير مم 50 ض 20</td>
+                            <td>197.50</td>
                         </tr>
                         <tr>
-                            <td>63</td>
-                            <td>140.00</td>
-                            <td>148.00</td>
+                            <td>م . مواسير 63 مم ض 20</td>
+                            <td>298.50</td>
                         </tr>
                     </tbody>
                 </table>
@@ -624,28 +618,34 @@
                 <table>
                     <thead><tr>
                         <th>المقاس</th>
-                        <th>السعر</th>
+                        <th>اخضر</th>
+                        <th>معزول</th>
                     </tr></thead>
                     <tbody>
                         <tr>
-                            <td>م . ماسورة ض 2020</td>
-                            <td>28.30</td>
+                            <td>20</td>
+                            <td>10.30</td>
+                            <td>15.00</td>
                         </tr>
                         <tr>
-                            <td>م ماسورة 20y/25</td>
-                            <td>55.00</td>
+                            <td>25</td>
+                            <td>17.00</td>
+                            <td>19.00</td>
                         </tr>
                         <tr>
-                            <td>م مواسير مم 32 ض 20</td>
-                            <td>86.00</td>
+                            <td>32</td>
+                            <td>32.00</td>
+                            <td>40.00</td>
                         </tr>
                         <tr>
-                            <td>م مواسير مم 50 ض 20</td>
-                            <td>197.50</td>
+                            <td>50</td>
+                            <td>98.00</td>
+                            <td>103.00</td>
                         </tr>
                         <tr>
-                            <td>م . مواسير 63 مم ض 20</td>
-                            <td>298.50</td>
+                            <td>63</td>
+                            <td>140.00</td>
+                            <td>148.00</td>
                         </tr>
                     </tbody>
                 </table>
